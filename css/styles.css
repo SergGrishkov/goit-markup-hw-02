@@ -141,11 +141,14 @@ h3 {
 
 .section-head {
   color: #2e2f42;
+  background-color: #ffffff;
 }
 
 .description {
+  font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  background-color: #ffffff;
 }
 
 .section-third {
