@@ -151,10 +151,10 @@ h3 {
   background-color: #ffffff;
 }
 
-.section-third,
-.image {
+.section-third {
   background-color: #f4f4fd;
 }
+
 .section-third-head {
   color: #2e2f42;
   font-size: 36px;
@@ -164,7 +164,11 @@ h3 {
   text-transform: capitalize;
 }
 
-.section-fourth h2 {
+.section-third-image {
+  background-color: #ffffff;
+}
+
+.section-fourth-head {
   color: #2e2f42;
   text-align: center;
   font-family: Roboto;
