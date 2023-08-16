@@ -48,14 +48,12 @@ li {
 .nav-item:focus,
 .nav-item:hover {
   color: #404bbf;
-  flex-shrink: 0;
   text-decoration: underline;
 }
 
-nav .menu li a:active {
+/* nav .menu li a:active {
   color: #404bbf;
-  flex-shrink: 0;
-}
+} */
 
 .contacts {
   color: #434455;
@@ -108,13 +106,6 @@ nav .menu li a:active {
   border: none;
 }
 
-/* .text li p {
-  color: #434455;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.32px;
-} */
-
 h3 {
   font-size: 20px;
   font-style: normal;
@@ -125,7 +116,6 @@ h3 {
 
 .section-first {
   background: #2e2f42;
-  flex-shrink: 0;
 }
 
 .section-first h1 {
@@ -182,15 +172,7 @@ h3 {
 
 footer {
   background: #2e2f42;
-  flex-shrink: 0;
 }
-
-/* footer p { */
-/* color: #f4f4fd;
-  font-size: 16px;
-  line-height: 1.17;
-  letter-spacing: 0.32px;
-} */
 
 .footer-logo-studio {
   color: #f4f4fd;
