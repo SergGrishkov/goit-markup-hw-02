@@ -48,7 +48,7 @@ li {
 .nav-item:focus,
 .nav-item:hover {
   color: #404bbf;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 /* nav .menu li a:active {
