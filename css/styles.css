@@ -36,6 +36,7 @@ li {
 }
 
 .nav-item {
+  color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -44,7 +45,7 @@ li {
   letter-spacing: 0.32px;
 }
 
-nav .menu li a:hover {
+.nav-item:focus {
   color: #404bbf;
   flex-shrink: 0;
   text-decoration: underline;
